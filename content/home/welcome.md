@@ -10,7 +10,7 @@ title: |
   Frank Dorian  
   UX/UI Designer
   Web Developer
-hero_media: main_img.png
+hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
