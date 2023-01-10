@@ -15,11 +15,11 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Frank Dorian | Online Portfolio | UI / UX + JAMSTACK'
-    twitter: 'pushprod'
-  analytics:
+    twitter: '@Dorian_Frank'
+    analytics:
     google_analytics: ''
     baidu_tongji: ''
-  verification:
+    verification:
     google: ''
     baidu: ''
 
