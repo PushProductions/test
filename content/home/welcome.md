@@ -8,7 +8,8 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Frank Dorian  
-  UX/UI Designer / Web Developer
+  UX/UI Designer
+  Web Developer
 hero_media: main_img.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +21,7 @@ design:
 
 <br>
 
-Hi, My name is **Frank Dorian**. I'm glad you are here. Please make yourself at home and take a look around. Don't forget to let me know you stopped by on the form below. Take care, Frank :)
+Hi, My name is **Frank**. I'm glad you stopped by. Please make yourself at home and take a look around. Let me know you stopped by. I would love to hrear from you.
+Take care,
+
+Frank. ;)
