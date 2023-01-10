@@ -21,7 +21,8 @@ design:
 
 <br>
 
-Hi, My name is **Frank**. I'm glad you stopped by. Please make yourself at home and take a look around. Let me know you stopped by. I would love to hrear from you.
+Hi, how are you? ...I'm glad you stopped by. 
+Please make yourself at home and take a look around. Also, please let me know that you stopped by. I would love to hrear from you.
 Take care,
 
 Frank. ;)
