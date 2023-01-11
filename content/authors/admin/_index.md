@@ -1,15 +1,14 @@
 ---
 title: Frank Dorian
 role: UI/UX Front End Designer
-avatar_filename: pushprod.jpg
+avatar_filename: avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg
 bio: Seattle, WA
 interests:
-  - "#Web_Design"
-  - "#Web_Development"
-  - "#UI"
-  - "#UX"
-  - "#JAMSTACK"
-  - "#Front_End_Design"
+  - Web Design
+  - Web Development
+  - UI / UX Design
+  - JAMSTACK
+  - Front End Design
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,7 +21,8 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/pushproductions
-organizations: []
+organizations:
+  - name: Kaplan University B.S. Information Technology
 education:
   courses: []
 email: ""
