@@ -1,6 +1,10 @@
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ab40e57-fac8-428c-9caf-0cb370a816e9/deploy-status)](https://app.netlify.com/sites/dorianwebdev/deploys)
+
+This site began as a Wowchemy template. 
+
+This site is on Github and is distributed by Netlify.
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
 
@@ -46,3 +50,4 @@ Please replace the demo images with your own.
 - Avatars
   - https://unsplash.com/photos/5yENNRbbat4
   - https://unsplash.com/photos/WNoLnJo7tS8
+

@@ -1,13 +1,9 @@
-# SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: 
+  theme_night: minimal
   font: native
   font_size: L
 
@@ -15,15 +11,15 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Portfolio / Blog
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
+    description: 'Frank Dorian | Online Portfolio | UI / UX + JAMSTACK'
+    twitter: '@Dorian_Frank'
+    analytics:
     google_analytics: ''
     baidu_tongji: ''
-  verification:
+    verification:
     google: ''
     baidu: ''
 
@@ -53,7 +49,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 16, 2016'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -114,3 +110,9 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+  # SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
