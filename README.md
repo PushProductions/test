@@ -2,8 +2,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5ab40e57-fac8-428c-9caf-0cb370a816e9/deploy-status)](https://app.netlify.com/sites/dorianwebdev/deploys)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
-
 This site began as a Wowchemy template. 
 
 This site is on Github and is distributed by Netlify.
