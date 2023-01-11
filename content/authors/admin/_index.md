@@ -1,6 +1,6 @@
 ---
 title: Frank Dorian
-role: UI/UX Front End Designer
+role: UI/UX Front End Designer, Author
 avatar_filename: avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg
 bio: Seattle, WA
 interests:
