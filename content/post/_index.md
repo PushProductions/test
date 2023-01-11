@@ -1,5 +1,5 @@
 ---
-title: Latest Blog
+title: Latest Blog Post
 view: compact
 banner:
   caption: ""
