@@ -1,11 +1,9 @@
 ---
-title: Latest News
-
-# Listing view
+title: Latest Blog
 view: compact
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+date: 2023-01-11T02:13:22.089Z
 ---
+This is the body for the latest blog.
