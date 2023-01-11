@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: First update using cms, changed title and main content
+widget_id: hero-intro
 headless: true
 weight: 10
 title: Frank Dorian  UI/UX Front End Designer
@@ -13,7 +13,7 @@ design:
 <br>
 
 Hi, I'm glad you stopped by. 
-Please make yourself at home and take a look around. \
+Please make yourself at home and take a look around.
 T﻿hanks.
 
 Frank. ;)
