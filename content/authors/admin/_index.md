@@ -2,7 +2,7 @@
 title: Frank Dorian
 role: UI/UX Front End Designer
 avatar_filename: pushprod.jpg
-bio: UI/UX Designer in Seattle, WA
+bio: Seattle, WA
 interests:
   - "#Web_Design"
   - "#Web_Development"
