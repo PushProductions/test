@@ -18,7 +18,7 @@ content:
   email: frank@dorianwebdev.com
  
   office_hours:
-    - 'Monday - Friday 9:00 to 19:00'
+    - 'Monday thru Friday 9:00 to 19:00'
     - 'Saturday 10:00 to 18:00'
   appointment_url: 'https://calendly.com/pushprod'
   #contact_links:
