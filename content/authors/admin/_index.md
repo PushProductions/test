@@ -22,9 +22,9 @@ social:
     icon_pack: fab
     link: https://github.com/pushproductions
 organizations:
-  - name: Kaplan University B.S. Information Technology
+  - name: Design Squad
 education:
-  courses: []
+  - degree: Kaplan University B.S. Information Technology
 email: ""
 superuser: true
 user_groups: []
@@ -33,6 +33,6 @@ highlight_name: false
 
 Frank Dorian is a freelance Web Designer based out of Seattle, WA. He has been creating websites for clients since 2002.
 
-He graduated from Kaplan University with a 3.5 G.P.A. in 2007.
+This site is a work in progress for an eventual portfolio / blog site.
 
 
