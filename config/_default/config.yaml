@@ -1,6 +1,6 @@
 
-title: www.dorianwebdev.com # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Dorian WebDev # Website name
+baseURL: 'www.dorianwebdev.com/' # Website URL
 
 ############################
 ## LANGUAGE
