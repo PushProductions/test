@@ -1,38 +1,75 @@
 ---
+# Display name
 title: Frank Dorian
-role: UI/UX Front End Designer, Author
-avatar_filename: avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg
-bio: Seattle, WA
-interests:
-  - Web Design
-  - Web Development
-  - UI / UX Design
-  - JAMSTACK
-  - Front End Design
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:frankt@dorianwebdev.com
-    display:
-      header: false
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/Frank_Dorian
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/pushproductions
-organizations:
-  - name: Design Squad
-education:
-  - degree: Kaplan University B.S. Information Technology
-email: ""
+
+# Is this the primary user of the site?
 superuser: true
-user_groups: []
+
+# Role/position
+role: Front End Designer / Developer
+
+# Organizations/Affiliations
+organizations:
+- name: Purdue University
+  url: ""
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests includes UI/UX Design, JAMSTACK Development and THREE.JS.
+
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
+
+education:
+  courses:
+  - course: BSc in Information Technology
+    institution: Kaplan University
+    year: 2007
+  - course: Concentration in Web Development
+    institution: 
+    year: 
+  - course: 
+    institution: 
+    year: 
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:test@example.org'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
 highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
 ---
 
-Frank Dorian is a freelance Web Designer based out of Seattle, WA. He has been creating websites for clients since 2002.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-This site is a work in progress for an eventual portfolio / blog site.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 
