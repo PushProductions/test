@@ -2,7 +2,9 @@
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form. 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ab40e57-fac8-428c-9caf-0cb370a816e9/deploy-status)](https://app.netlify.com/sites/dorianwebdev/deploys)
 
 ️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
 
