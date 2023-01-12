@@ -26,12 +26,7 @@ education:
   - course: BSc in Information Technology
     institution: Kaplan University
     year: 2007
-  - course: Concentration in Web Development
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
