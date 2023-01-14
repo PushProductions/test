@@ -85,7 +85,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: pushproductions
+    provider: wowchemy
     algolia:
       app_id: ''
       api_key: ''
